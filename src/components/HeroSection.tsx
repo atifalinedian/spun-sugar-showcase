@@ -30,7 +30,7 @@ const HeroSection = () => {
           className="font-display text-5xl sm:text-6xl md:text-7xl font-extrabold text-foreground leading-tight mb-6"
         >
           Fresh Cotton Candy,{" "}
-          <span className="text-primary">Spun Automatically</span>
+          <span className="text-primary">Crafted by CloudBot</span>
         </motion.h1>
 
         <motion.p
@@ -39,7 +39,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="font-body text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10"
         >
-          Watch our smart vending machines craft beautiful, custom cotton candy
+          Watch CloudBot's smart vending machines craft beautiful, custom cotton candy
           designs right before your eyes. Choose your flavor, pick a shape, and
           enjoy the sweetest experience.
         </motion.p>

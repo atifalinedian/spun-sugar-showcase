@@ -34,7 +34,7 @@ const ContactForm = () => {
     setSubmitted(true);
     toast({
       title: "Request Submitted! 🎉",
-      description: "We'll be in touch soon to discuss placing a SweetSpin machine at your venue.",
+      description: "We'll be in touch soon to discuss placing a CloudBot machine at your venue.",
     });
     form.reset();
     setTimeout(() => setSubmitted(false), 3000);
@@ -57,7 +57,7 @@ const ContactForm = () => {
             Request a Machine
           </h2>
           <p className="font-body text-muted-foreground mt-4">
-            Interested in bringing a SweetSpin machine to your venue? Fill out the form below.
+            Interested in bringing a CloudBot machine to your venue? Fill out the form below.
           </p>
         </motion.div>
 
