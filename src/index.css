@@ -15,11 +15,11 @@
     --popover: 0 0% 100%;
     --popover-foreground: 330 40% 15%;
 
-    --primary: 330 70% 58%;
+    --primary: 325 85% 55%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 200 70% 72%;
-    --secondary-foreground: 200 60% 18%;
+    --secondary: 280 60% 55%;
+    --secondary-foreground: 280 20% 95%;
 
     --muted: 330 20% 94%;
     --muted-foreground: 330 10% 45%;
@@ -32,15 +32,15 @@
 
     --border: 330 20% 90%;
     --input: 330 20% 88%;
-    --ring: 330 70% 58%;
+    --ring: 325 85% 55%;
 
     --radius: 0.75rem;
 
-    --cotton-pink: 330 70% 58%;
-    --cotton-blue: 200 70% 72%;
-    --cotton-lavender: 270 50% 75%;
-    --cotton-mint: 160 45% 70%;
-    --cotton-peach: 15 80% 78%;
+    --cotton-pink: 325 85% 55%;
+    --cotton-blue: 195 80% 75%;
+    --cotton-lavender: 280 60% 65%;
+    --cotton-mint: 165 55% 75%;
+    --cotton-peach: 20 85% 78%;
 
     --sidebar-background: 0 0% 98%;
     --sidebar-foreground: 240 5.3% 26.1%;
@@ -62,11 +62,11 @@
     --popover: 330 25% 10%;
     --popover-foreground: 330 10% 92%;
 
-    --primary: 330 70% 62%;
+    --primary: 325 80% 62%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 200 50% 30%;
-    --secondary-foreground: 200 30% 90%;
+    --secondary: 280 50% 45%;
+    --secondary-foreground: 280 20% 92%;
 
     --muted: 330 15% 18%;
     --muted-foreground: 330 10% 60%;
@@ -79,7 +79,7 @@
 
     --border: 330 15% 20%;
     --input: 330 15% 20%;
-    --ring: 330 70% 62%;
+    --ring: 325 80% 62%;
 
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;

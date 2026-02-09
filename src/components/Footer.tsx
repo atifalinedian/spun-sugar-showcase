@@ -1,4 +1,5 @@
 import { Instagram, Facebook, Twitter } from "lucide-react";
+import logoImg from "@/assets/cloudbot-logo.jpg";
 
 const Footer = () => {
   return (
@@ -7,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           {/* Brand */}
           <div>
-            <h3 className="font-display text-2xl font-bold mb-2">🍭 SweetSpin</h3>
+            <img src={logoImg} alt="CloudBot" className="h-12 mb-2 brightness-0 invert" />
             <p className="font-body text-sm text-background/60 leading-relaxed">
               Automatic cotton candy vending machines — fresh, fun, and unforgettable.
             </p>
@@ -49,7 +50,7 @@ const Footer = () => {
 
         <div className="border-t border-background/10 mt-10 pt-6 text-center">
           <p className="font-body text-xs text-background/40">
-            © {new Date().getFullYear()} SweetSpin. All rights reserved.
+            © {new Date().getFullYear()} CloudBot. All rights reserved.
           </p>
         </div>
       </div>
