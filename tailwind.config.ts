@@ -47,6 +47,13 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        cotton: {
+          pink: "hsl(var(--cotton-pink))",
+          blue: "hsl(var(--cotton-blue))",
+          lavender: "hsl(var(--cotton-lavender))",
+          mint: "hsl(var(--cotton-mint))",
+          peach: "hsl(var(--cotton-peach))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
@@ -57,6 +64,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+      },
+      fontFamily: {
+        display: ["'Baloo 2'", "cursive"],
+        body: ["'Nunito'", "sans-serif"],
       },
       borderRadius: {
         lg: "var(--radius)",
